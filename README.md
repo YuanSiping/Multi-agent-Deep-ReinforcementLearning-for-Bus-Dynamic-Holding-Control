@@ -1,6 +1,7 @@
 ## 安装
 
 python 3.9
+
 mindspore 2.2.10
 
 ## 用法
@@ -47,5 +48,6 @@ class Env(object):
 ## 介绍
 
 主函数：train/sim_train
+
 训练时，把runner/shared/sim_runner里的train_flag改true，测试的时候改成false。
 
